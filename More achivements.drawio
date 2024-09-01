@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="vUajI5pDDpHhyEbEt2M-">
+    <mxGraphModel dx="2440" dy="1221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="391" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-18" value="Kökets Mattemästare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="492" y="45" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-19" value="Använde matte för att mäta ingredienser när du hjälpte till i köket." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="492" y="75" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="391" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-21" value="Shoppingstrateg" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="492" y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-22" value="Använde addition och subtraktion för att hålla koll på kostnader när du var ute och handlade." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="492" y="170" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="391" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-24" value="Spelstrateg" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="492" y="240" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-25" value="Använde logik eller sannolikhet från matteboken för att förbättra dina strategier i ett spel eller en tävling." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="492" y="270" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-27" value="Lördagslegend" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="845" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-28" value="Gjorde klart sina matteuppgifter på en lördag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="875" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-30" value="Söndagsstjärna" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="945" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-31" value="Slutförde matteuppgifter på en söndag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="975" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-51" value="Helgmästare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="1040" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-52" value="Arbetade med matte både på lördag och söndag samma helg." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="1070" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-54" value="Måndagsmatte" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="340" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-55" value="Kickstartade veckan med matte på en måndag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="370" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-57" value="Tisdagsräknare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="450" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-58" value="Tog sig igenom matteuppgifter på en tisdagskväll." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="480" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-60" value="Onsdagsutmanare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="545" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-61" value="Löste matteproblem mitt i veckan på en onsdag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="575" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-67" value="Torsdagsgeni" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="650" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-68" value="Visade smarta mattekunskaper på en torsdag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="680" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-70" value="Fredagsfokus" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="501" y="745" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-71" value="Avslutade veckan starkt med matte på en fredag." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="501" y="775" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-2" value="Ansvarstagare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="45" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-3" value="Tog initiativ till att börja med läxan direkt efter skolan." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="75" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-5" value="Mästare på Tidsplanering" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-6" value="Planerade och genomförde veckans arbete utan att behöva påminnas." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="170" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-8" value="Adderingsmästare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="240" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-9" value="Bemästrade alla adderingsproblem i ett kapitel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="270" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-11" value="Subtraktionsstjäna" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="345" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-12" value="Bemästrade alla subtraktionsproblem i ett kapitel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="375" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-14" value="Multiplikationsmästare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="445" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-15" value="Bemästrade alla multiplikationsproblem i ett kapitel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="475" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-17" value="Divisionsdynamo" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="540" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-18" value="Bemästrade alla divisionsproblem i ett kapitel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="570" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-20" value="Bråkfantast" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="640" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-21" value="Bemästrade alla bråkproblem i ett kapitel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="670" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-23" value="Mattekonstnär" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="750" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-24" value="Illustrerade ett matematikproblem på ett kreativt sätt (teckning, serie, etc.)." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="780" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-26" value="Berättare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="845" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-27" value="Skapade en kort berättelse eller ramsa för att minnas ett matematiskt begrepp." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="875" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-29" value="Matematisk Upptäckare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="950" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-30" value="Använde en matematisk princip från boken i verkliga livet, som att räkna växel i en butik." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="980" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-32" value="Hemmaingenjör" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1045" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0C9eydMuJV_6HZoIffj-33" value="Hittade ett sätt att använda geometrikunskaper för att mäta något hemma, som ett rum eller en möbel." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1075" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
