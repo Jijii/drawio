@@ -1,9 +1,174 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="vUajI5pDDpHhyEbEt2M-">
-    <mxGraphModel>
+    <mxGraphModel dx="1728" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-2" value="Kapitel 1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="265" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-6" value="Kapitel 2" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="365" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-9" value="Kapitel 3" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="465" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-12" value="Kapitel 4" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="565" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-15" value="Kapitel 5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="665" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-18" value="Matematikdetektiv" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="45" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-19" value="Hittade ett fel i matematikboken eller arbetsbladet." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="75" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-21" value="Miniräknarmästare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-22" value="Använde en miniräknare för att kontrollera ditt arbete (med tillåtelse)." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-24" value="Problemkrossare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-25" value="Löste ett problem som verkade riktigt svårt först." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-27" value="Tursam gissning" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="345" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-28" value="Fick rätt svar på en gissning och löste det sedan korrekt." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="375" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-30" value="Pussellösare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="445" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-31" value="Löste ett knepigt problem utan hjälp." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="475" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-39" value="Kapitel 6" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="765" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-42" value="Kapitel 7" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="865" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-45" value="Kapitel Genrepet" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="960" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-48" value="Kapitel Uppdrag" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1065" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-51" value="Kreativ problemlösare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-52" value="Hittade ett annorlunda sätt att lösa ett problem." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-54" value="Extra insats" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-55" value="&amp;nbsp;Slutförde en extra sida med problem på en dag" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="670" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-57" value="Självstartare" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="750" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-58" value="Började dagens arbete utan att behöva påminnas av föräldrarna." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="780" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-60" value="Motiverad Elev" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="845" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-61" value="Slutförde en hel veckas arbete utan att någon behövde påminna om det." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="875" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-63" value="Kapitel 4 (2B)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="65" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="39" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-65" value="Kapitel 5 (2B)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="165" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-67" value="Lugn och Fokus" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="950" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-68" value="Arbetade fokuserat i 30 minuter utan avbrott." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="980" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-70" value="Fråga Fritt" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1045" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0hJV1KPmtoJcpVpHHSA-71" value="Ställde frågor om något svårt istället för att ge upp." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1075" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
